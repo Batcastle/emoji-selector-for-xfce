@@ -1,6 +1,10 @@
-# Emoji Selector (for GNOME Shell)
+# Emoji Selector (for Xfce)
+## forked from [Emoji Selector (for GNOME Shell)](https://github.com/maoschanz/emoji-selector-for-gnome)
 
-This GNOME shell extension provides a searchable popup menu displaying most emojis ; Clicking on an emoji copies it to your clipboard.
+This Xfce Plugin provides a searchable popup menu displaying most emojis; Clicking on an emoji copies it to your clipboard.
+
+**NOTE**
+This project is under development for Xfce support. It does not currently work.
 
 ## Features
 
